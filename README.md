@@ -29,7 +29,7 @@ Setup guide:
 
 * Start deploy script:
 ```
- sudo /mnt/ubuntu.sh
+ sudo sh /mnt/mnt.sh
 ```
 
 Afther that it install gnu make, sshd, change password for root to '123' and start sshd. And it mount the '/n' shared directory.
